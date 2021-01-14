@@ -297,7 +297,7 @@ img {
 }
 
 .testimonials .content .testimonialsBox4 {
-    background: #65ff00;
+    background-image: url(BrodinMatthews.png);
     max-width: calc(50% - 40px);
     padding: 60px 40px;
     margin: 20px;
